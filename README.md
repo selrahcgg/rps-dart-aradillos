@@ -3,7 +3,7 @@
 
 ## Student Information
 
-- **Name:** [Your Full Name]
+- **Name:** Charls Owen D. Aradillos
 - **Course:** BSIT
 - **Year:** 3rd Year
 - **Section:** ILGX3
